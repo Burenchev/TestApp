@@ -1,10 +1,11 @@
+//Компонент служит для наполнения "домашней" страницы (раздел MainPage) простой строкой текста.
 import React from 'react';
 
 function MainContent () {
     return (
         <div>
         <h3>
-            Here should be something useful.
+            Nothing useful here.
         </h3>
         </div>
     )
