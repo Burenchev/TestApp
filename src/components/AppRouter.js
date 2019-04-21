@@ -1,7 +1,3 @@
-// Компонет react-router построен по примеру из официальной документации
-// с минимальными изменениями. Функция MainPage выводит условный контент домашней 
-// страницы (в данном случае просто строку текста), функция Chart выводит компонет
-// SortArr, содержащий график на основе сортированного массива данных.
 import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import MainContent from './MainContent'
