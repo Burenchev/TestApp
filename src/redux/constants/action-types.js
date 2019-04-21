@@ -1,0 +1,2 @@
+export const CHANGE_YEAR = 'CHANGE_YEAR';
+export const CHANGE_REPRESENT = 'CHANGE_REPRESENT';
